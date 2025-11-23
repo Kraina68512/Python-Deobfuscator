@@ -1,8 +1,13 @@
 # Python Deobfuscator
-Deobfuscates code from: "https://freecodingtools.org/tools/obfuscator/python"
 
-### It uses only built-in libraries, so you wont install any
+Deobfuscates code from: Free Coding Tools Python Obfuscator
 
-## Usage
-deobfuscator (input file) (output file)
-Then in progress it will write some things
+This script uses only built-in Python libraries, so no additional installation is required.
+
+# Usage
+
+`python deobfuscator.py <input_file> <output_file>`
+
+While running, the script will display progress for each decoding layer.
+
+ - **Note**: The script requires exactly two arguments (input and output file). Without them, it will not run.
