@@ -1,6 +1,6 @@
 # Python Deobfuscator
 
-Deobfuscates code from: Free Coding Tools Python Obfuscator
+Deobfuscates code from: "https://freecodingtools.org/tools/obfuscator/python"
 
 This script uses only built-in Python libraries, so no additional installation is required.
 
